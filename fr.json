@@ -1,10 +1,12 @@
 {
-    "DG.SystemName": "Delta Green",
+    "DG.SystemName": "deltagreen",
+	"I18N.LANGUAGE": "Français",
+    "I18N.MAINTAINERS": ["Hrunh"],
     "DG.AgentNameFieldTooltip": "NOM, PRENOM (ET ALIAS SI APPLICABLE)",
     "DG.RollLuck": "Jet de Chance",
     "DG.Luck": "Chance",
 
-    "DG.FallbackText.ProfessionAndOrRank": "PROFESSION (RANg SI APPLICABLE)",
+    "DG.FallbackText.ProfessionAndOrRank": "PROFESSION (RANG SI APPLICABLE)",
 
     "DG.Skills.accounting": "Comptabilité",
     "DG.Skills.alertness": "Vigilance",
