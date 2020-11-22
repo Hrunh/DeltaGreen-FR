@@ -19,7 +19,7 @@
     }
   ],
   
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/Hrunh/DeltaGreen-FR/module.json",
+  "manifest": "https://github.com/Hrunh/DeltaGreen-FR/blob/master/module.json",
+  "download": "https://github.com/Hrunh/DeltaGreen-FR/blob/master/DeltaGreen-FR.zip"
 }
