@@ -1,7 +1,8 @@
 {
     "DG.SystemName": "deltagreen",
-	"I18N.LANGUAGE": "Français",
+    "I18N.LANGUAGE": "Français",
     "I18N.MAINTAINERS": ["Hrunh"],
+	
     "DG.AgentNameFieldTooltip": "NOM, PRENOM (ET ALIAS SI APPLICABLE)",
     "DG.RollLuck": "Jet de Chance",
     "DG.Luck": "Chance",
@@ -69,7 +70,7 @@
     "DG.Attributes.pow": "POU",
     "DG.Attributes.cha": "CHA",
 
-    "DG.Navigation.Skills": "Compétebces",
+    "DG.Navigation.Skills": "Compétences",
     "DG.Navigation.Physical": "Physique",
     "DG.Navigation.Mental": "Mental",
     "DG.Navigation.Gear": "Equipement",
@@ -99,7 +100,7 @@
     "DG.Generic.AddButtonLabel": "Ajout",
 
     "DG.Mental.BreakingPoint": "Point de Rupture: ",
-    "DG.Mental.Reset": "Réinitialisé",
+    "DG.Mental.Reset": "Reset",
     "DG.Mental.SanityLossIncidentsLabel": "Perte de SAN sans devenir fou",
     "DG.Mental.Violence": "Violence",
     "DG.Mental.Helplessness": "Impuissance",
@@ -139,7 +140,7 @@
     "DG.ItemTypes.motivation": "Motivation",
     "DG.ItemTypes.bond": "Lien",
     "DG.ItemTypes.gear": "Équipement",
-    "DG.ItemTypes.NewPrefix": "Nouveau ",
+    "DG.ItemTypes.NewPrefix": "Nouvelle ",
 
     "DG.Tooltip.HP": "Points de vie, un personnage devient inconscient à 2PV et meurt à 0PV.",
     "DG.Tooltip.MaximumHP": "La Santé maximum est la moyenne de FOR+CON, arrondi au supérieur.",
