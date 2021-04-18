@@ -17,5 +17,5 @@ Au début du XXIe siècle, le gouvernement rétablit cependant l’opération, d
 - Installer le système [Delta Green](https://foundryvtt.com/packages/deltagreen/) depuis l'application Foundry dans la catégorie SYSTEME (Auteur: [TheLastScrub](https://foundryvtt.com/community/thelastscrub))
 - Installer le module de traduction de [Delta Green](https://foundryvtt.com/packages/DeltaGreen_fr-FR/) dans la catégorie MODULE (Auteur: [Hrunh](https://foundryvtt.com/community/hrunh))
 
-##Plus d'informations?
+## Plus d'informations?
 Vous pouvez nous retrouver sur le wiki [Foundry Francophone](https://foundryvtt.wiki/fr/home), et sur la page dédié au système [Delta Green](https://foundryvtt.wiki/fr/systemes/dg).
