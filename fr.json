@@ -1,8 +1,5 @@
 {
-    "DG.SystemName": "deltagreen",
-    "I18N.LANGUAGE": "Français",
-    "I18N.MAINTAINERS": ["Hrunh"],
-	
+    "DG.SystemName": "Delta Green",
     "DG.AgentNameFieldTooltip": "NOM, PRENOM (ET ALIAS SI APPLICABLE)",
     "DG.RollLuck": "Jet de Chance",
     "DG.Luck": "Chance",
@@ -93,6 +90,7 @@
     "DG.Roll.Damage": "Dégâts",
     "DG.Roll.RollingDamageFor": "Jets de dégats pour",
     "DG.Roll.Or": "Ou",
+    "DG.Roll.Roll": "Lancer",
 
     "DG.Physical.Wounds": "Blessures",
     "DG.Physical.FirstAidLabel": "Les premiers secours ont déjà été tentés: ",
@@ -140,28 +138,29 @@
     "DG.ItemTypes.motivation": "Motivation",
     "DG.ItemTypes.bond": "Lien",
     "DG.ItemTypes.gear": "Équipement",
-    "DG.ItemTypes.NewPrefix": "Nouvelle ",
+    "DG.ItemTypes.NewPrefix": "Nouveau/Nouvelle ",
 
     "DG.Tooltip.HP": "Points de vie, un personnage devient inconscient à 2PV et meurt à 0PV.",
     "DG.Tooltip.MaximumHP": "La Santé maximum est la moyenne de FOR+CON, arrondi au supérieur.",
     "DG.Tooltip.WP": "Les Points de Volonté (WP) sont le carburant psychologique. Les Agents ont besoin de Points de Volonté pour continuer à travailler malgré l'épuisement ou les situations mentalement éprouvantes.  Voir la page 47 du Manuel de l'agent pour plus de détails.",
     "DG.Tooltip.MaximumWP": "La Volonté maximum est égale au POUVOIR.",
-    "DG.Tooltip.SanityLabel": "Cliquer pour effectuer un jet de Santé Mentale...",
+    "DG.Tooltip.SanityLabel": "Cliquer pour effectuer un jet de Santé Mentale",
     "DG.Tooltip.CurrentSanityPartOne": "Santé Mentale actuelle, le point de rupture actuel est ",
     "DG.Tooltip.CurrentSanityPartTwo": ", cliquez sur SAN ci-dessus pour effectuer un jet de santé mentale.",
     "DG.Tooltip.MaximumSanity": "La Santé Mentale maximum est égale à 99 moins la compétence Paranaturel.",
-    "DG.Tooltip.SkillLabel": "Cliquer pour cocher la compétence.",
+    "DG.Tooltip.SkillLabel": "Cliquer pour utiliser la compétence.",
     "DG.Tooltip.CannotRollSkillLabel": "Une compétence à 0% ne peut pas être utilisée.  Voir page 28 du Manuel de l'Agent.",
     "DG.Tooltip.SkillFailCheckbox": "Cochez une case lorsque vous échouez à un jet de compétence (si celle-ci est d'au moins 1%). Après la session, ajoutez 1d4-1 à chaque compétence cochée et effacez tous les coches. Ne s'applique pas à la compétence Paranaturel.  Voir la page 29 du Manuel de l'Agent.",
     "DG.Tooltip.DistinguishingFeature": "Traits distinctifs (à remplir si la valeur est de 12 ou plus, ou de 8 ou moins).",
-    "DG.Tooltip.x5AttributeLabel": "Clicquer pour effectuer un jet de % (valeur x5).",
+    "DG.Tooltip.x5AttributeLabel": "Cliquer pour effectuer un jet de % (valeur x5).",
     "DG.Tooltip.FirstAidAttempted": "Dés qu'un Agent reçoit les premiers soins, il ne peut plus en bénéficier tant qu'il n'a pas reçu de nouveaux dégâts d'une autre source.",
     "DG.Tooltip.AdaptedToViolence": "Être adapté à la violence signifie que l'empathie de votre Agent souffre lorsqu'il en vient à considérer la violence comme un outil de plus à manier. Il ou elle perd définitivement 1D6 CHA et le même montant dans chacun de ses Liens.",
     "DG.Tooltip.AdaptedToHelplessness": "Être adapté à l'impuissance signifie que la motivation personnelle de votre agent souffre lorsqu'il se retire du monde qui l'entoure. Dès que votre agent s'adapte à l'impuissance, il ou elle perd définitivement 1D6 POU.",
+	"DG.Tooltip.ToggleEquippedState": "Cliquez pour indiquer si cet élément est équipé ou non.",
 
-    "DG.Gear.Expense.Incidental": "Accessoire",
+    "DG.Gear.Expense.Incidental": "Courant",
     "DG.Gear.Expense.Standard": "Standard",
-    "DG.Gear.Expense.Unusual": "Insolite",
+    "DG.Gear.Expense.Unusual": "Inhabituel",
     "DG.Gear.Expense.Major": "Important",
     "DG.Gear.Expense.Extreme": "Extrême",
 
@@ -197,11 +196,26 @@
     "DG.ItemWindow.Weapons.Expense": "Dépense",
     "DG.ItemWindow.Weapons.Damage": "Dégâts",
     "DG.ItemWindow.Weapons.Lethality": "Mortalité",
-    "DG.ItemWindow.Weapons.LethalityTooltip": "Une arme mortelle a une chance de tuer instantanément une cible. Lancer un D100 au lieu d'un jet de dégâts. En cas d'échec, la cible subit des dommages égaux aux 2d10 associés.",
     "DG.ItemWindow.Weapons.IsLethality": "Est Mortel",
+    "DG.ItemWindow.Weapons.LethalityTooltip": "Une arme mortelle a une chance de tuer instantanément une cible. Lancer un D100 au lieu d'un jet de dégâts. En cas d'échec, la cible subit des dommages égaux aux 2d10 associés.",
     "DG.ItemWindow.Weapons.IsLethalityTooltip": "Cochez cette case si l'arme est associée à un pourcentage de mortalité.",
     "DG.ItemWindow.Weapons.ArmorPiercing": "Perforation Armure",
     "DG.ItemWindow.Weapons.Ammo": "Munitions (Nombre/Type)",
     "DG.ItemWindow.Weapons.Range": "Portée",
-    "DG.ItemWindow.Weapons.KillRadius": "Zone d'Effet"
+    "DG.ItemWindow.Weapons.KillRadius": "Zone d'Effet",
+
+    "DG.ModifySkillRollDialogue.Title": "Modifier le Lancer",
+    "DG.ModifySkillRollDialogue.Test": "Test de:",
+    "DG.ModifySkillRollDialogue.OriginalTarget": "Niveau actuel:",
+    "DG.ModifySkillRollDialogue.TargetModifier": "Modificateur (+/-):",
+    "DG.ModifySkillRollDialogue.ModifierTooltip": "Donnez ici un modificateur positif ou négatif à ajouter/soustraire à la cible pour le test de compétence.",
+
+    "DG.ModifyDamageRollDialogue.Weapon": "Arme:",
+    "DG.ModifyDamageRollDialogue.OuterModifierTooltip": "Utilisez ce champ pour modifier la partie extérieure de la formule, par exemple pour doubler le résultat.",
+    "DG.ModifyDamageRollDialogue.InnerModifierTooltip": "Utilisez ce champ pour ajouter un modificateur fixe tel que '+1' ou un autre terme de dé tel que '+1d4'.",
+
+    "DG.Roll.Inhuman": "Inhumain",
+    "DG.Tooltip.BreakPoint": "Le point de rupture actuel, réinitialisé lorsque la santé mentale actuelle tombe à cette valeur ou en dessous.  Le point de rupture de départ est SAN - POU.",
+    "DG.Tooltip.BreakPointReset": "Le point de rupture est réinitialisé à la valeur actuelle SAN - WP.",
+    "DG.Skills.ritual": "Rituel"
 }
