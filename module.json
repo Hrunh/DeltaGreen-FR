@@ -6,6 +6,7 @@
   "minimumCoreVersion" : "0.7.8",  
   "compatibleCoreVersion": "1.0.0",
   "author": "Hrunh",
+  "systems": ["deltagreen"],
   "scripts": [],
   "styles": [ 
     "css/deltagreen_fr.css"
