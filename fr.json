@@ -114,7 +114,7 @@
     "DG.Gear.DamageOrLethality": "Dégâts/Mortalité",
     "DG.Gear.ArmorPiercing": "Perforation d'Armure",
     "DG.Gear.ArmorRating": "Niveau Armure",
-    "DG.Gear.Equipped": "EQUIPÉ",
+    "DG.Gear.Equipped": "Equipé",
 
     "DG.CV.Sex": "Sexe",
     "DG.CV.SexPlaceholder": "Sexe",
@@ -217,5 +217,17 @@
     "DG.Roll.Inhuman": "Inhumain",
     "DG.Tooltip.BreakPoint": "Le point de rupture actuel, réinitialisé lorsque la santé mentale actuelle tombe à cette valeur ou en dessous.  Le point de rupture de départ est SAN - POU.",
     "DG.Tooltip.BreakPointReset": "Le point de rupture est réinitialisé à la valeur actuelle SAN - WP.",
-    "DG.Skills.ritual": "Rituel"
+    "DG.Skills.ritual": "Rituel",
+
+    "DG.RollMode": "Mode de Jet",
+    "DG.Bonds.Relationship": "Type de Relation",
+
+    "DG.TypeSkills.Subskills.Painting": "Peinture",
+
+    "DG.UnnaturalSheet.HideUntrainedSkillsLabel": "Caché compétences non connues",
+    "DG.UnnaturalSheet.NotesLabel": "Notes",
+    "DG.UnnaturalSheet.ShortDescriptionFallbackText": "Description de créature ou du type de créature",
+    "DG.UnnaturalSheet.Tabs.NotesTabLabel": "Compétences & Notes",
+    "DG.UnnaturalSheet.Tabs.ItemsTabLabel": "Attaques & Capacités",
+    "DG.NPCSheet.BreakPointAbbreviation": "PR"
 }
