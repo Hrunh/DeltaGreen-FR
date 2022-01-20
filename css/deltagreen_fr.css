@@ -2,6 +2,6 @@
 /*=================== Image Background ======================*/
 /*************************************************************/
 body {
-    background: url(../Handlers_screen.webp) no-repeat center;
-    background-size: cover;
+    background-image: url(../Handlers_screen.webp);
+    background-repeat: no-repeat;
    }
