@@ -1,17 +1,19 @@
 {
   "name": "DeltaGreen_fr-FR",
   "title": "Delta Green fr-FR",
-  "description": "<p>Traduction Française du système Delta Green.</p> <p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'> https://discord.gg/pPSDNJk </a></p>",
-  "version": "0.4", 
-  "minimumCoreVersion": "9.235",
-  "compatibleCoreVersion": "10",
+  "description": "<p>Traduction Française du système Delta Green.</p> <p> *** Rejoignez la communauté Discord FR :<a href=\"https://discord.gg/pPSDNJk\"> https://discord.gg/pPSDNJk </a></p>",
   "author": "Hrunh",
-  "systems": ["deltagreen"],
+  "authors": [],
+  "url": "https://github.com/Hrunh/DeltaGreen-FR",
+  "flags": {},
+  "version": "0.2",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
   "scripts": [],
-  "styles": [ 
+  "esmodules": [],
+  "styles": [
     "css/deltagreen_fr.css"
   ],
-  "packs": [],
   "languages": [
     {
       "lang": "fr",
@@ -19,8 +21,15 @@
       "path": "fr.json"
     }
   ],
-  
-  "url": "https://github.com/Hrunh/DeltaGreen-FR",
+  "packs": [],
+  "system": [
+    "deltagreen"
+  ],
+  "dependencies": [],
+  "socket": false,
   "manifest": "https://raw.githubusercontent.com/Hrunh/DeltaGreen-FR/master/module.json",
-  "download": "https://github.com/Hrunh/DeltaGreen-FR/raw/master/DeltaGreen_fr-FR.zip"
+  "download": "https://github.com/Hrunh/DeltaGreen-FR/raw/master/DeltaGreen_fr-FR.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
 }
