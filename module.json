@@ -2,7 +2,7 @@
   "name": "DeltaGreen_fr-FR",
   "title": "Delta Green fr-FR",
   "description": "<p>Traduction Française du système Delta Green.</p> <p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'> https://discord.gg/pPSDNJk </a></p>",
-  "version": "0.2", 
+  "version": "0.4", 
   "minimumCoreVersion": "9.235",
   "compatibleCoreVersion": "10",
   "author": "Hrunh",
