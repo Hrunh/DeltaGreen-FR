@@ -231,7 +231,7 @@
     "DG.UnnaturalSheet.ShortDescriptionFallbackText": "Description de créature ou du type de créature",
     "DG.UnnaturalSheet.Tabs.NotesTabLabel": "Compétences & Notes",
     "DG.UnnaturalSheet.Tabs.ItemsTabLabel": "Attaques & Capacités",
-    "DG.NPCSheet.BreakPointAbbreviation": "PR"
+    "DG.NPCSheet.BreakPointAbbreviation": "PR",
 
     "DG.ImpossibleLanscapes.IHaveSeenThe": "J'AI VU LE",
     "DG.ImpossibleLanscapes.YellowSign": "SIGNE JAUNE",
