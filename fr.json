@@ -46,6 +46,8 @@
 
     "DG.Skills.AddTypedOrCustomSkill": "Ajouter une compétence personnalisée",
     "DG.Skills.AddSkill": "Ajout Compétence",
+    "DG.Skills.EditTypedOrCustomSkill": "Editer une compétence personnalisée",
+    "DG.Skills.EditSkill": "Editer Compétence",
     "DG.Skills.SkillGroup": "Groupe de compétence",
     "DG.Skills.SkillName": "Nom de la compétence",
 
@@ -230,4 +232,11 @@
     "DG.UnnaturalSheet.Tabs.NotesTabLabel": "Compétences & Notes",
     "DG.UnnaturalSheet.Tabs.ItemsTabLabel": "Attaques & Capacités",
     "DG.NPCSheet.BreakPointAbbreviation": "PR"
+
+    "DG.ImpossibleLanscapes.IHaveSeenThe": "J'AI VU LE",
+    "DG.ImpossibleLanscapes.YellowSign": "SIGNE JAUNE",
+    "DG.ImpossibleLanscapes.CorruptionFirstHalf": "Corrup",
+    "DG.ImpossibleLanscapes.CorruptionSecondHalf": "tion",
+    "DG.ImpossibleLanscapes.Gift": "Don",
+    "DG.ImpossibleLanscapes.Insight": "Intuition"
 }
