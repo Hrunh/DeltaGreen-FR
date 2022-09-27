@@ -46,6 +46,12 @@
 
     "DG.Skills.AddTypedOrCustomSkill": "Ajouter une compétence personnalisée",
     "DG.Skills.AddSkill": "Ajout Compétence",
+    "DG.Skills.Apply": "Appliquer",
+    "DG.Skills.ApplySkillImprovements": "Appliquer augmentation des compétences",
+    "DG.Skills.ApplySkillImprovementsChatFlavor": "Améliorer les compétences suivantes de",
+    "DG.Skills.ApplySkillImprovementsDialogLabel": "Améliorer les compétences par la formule suivante:",
+    "DG.Skills.ApplySkillImprovementsDialogEffectsFollowing": "Affecte les compétences suivantes:",
+    "DG.Skills.ApplySkillImprovementsWarning": "Pas de compétences raté à améliorer.",
     "DG.Skills.EditTypedOrCustomSkill": "Editer une compétence personnalisée",
     "DG.Skills.EditSkill": "Editer Compétence",
     "DG.Skills.SkillGroup": "Groupe de compétence",
@@ -239,4 +245,9 @@
     "DG.ImpossibleLanscapes.CorruptionSecondHalf": "tion",
     "DG.ImpossibleLanscapes.Gift": "Don",
     "DG.ImpossibleLanscapes.Insight": "Intuition"
+	
+    "DG.VehicleSheet.NotesTabName": "Notes",
+    "DG.VehicleSheet.GearTabName": "Équipement",
+    "DG.VehicleSheet.NotesLabel": "NOTES",
+    "DG.VehicleSheet.DescriptionPlaceHolder": "Description du Véhicule"
 }
