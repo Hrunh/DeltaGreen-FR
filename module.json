@@ -10,11 +10,10 @@
   ],
   "url": "https://github.com/Hrunh/DeltaGreen-FR",
   "flags": {},
-  "version": "0.6",
+  "version": "0.7",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.285",
-    "maximum": "10"
+    "verified": "11"
   },
   "scripts": [],
   "esmodules": [],
