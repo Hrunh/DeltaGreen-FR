@@ -19,4 +19,4 @@ Au début du XXIe siècle, le gouvernement rétablit cependant l’opération, d
 
 ## Plus d'informations?
 Vous pouvez nous retrouver sur le wiki [Foundry Francophone](https://foundryvtt.wiki/fr/home), et sur la page dédié au système [Delta Green](https://foundryvtt.wiki/fr/systemes/dg).
-Si vous souhaitez discuter de Delta Green avec des MJ et Joueurs de la communauté Française, n'hésitez pas à rejoindre le Discord de L'Assemblée Rôliste (https://discord.gg/assemblee-roliste).
+Si vous souhaitez discuter de Delta Green avec des MJ et Joueurs de la communauté Française, n'hésitez pas à rejoindre le Discord de [L'Assemblée Rôliste](https://discord.gg/assemblee-roliste).
